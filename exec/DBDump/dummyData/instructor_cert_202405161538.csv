@@ -1,4 +1,4 @@
-﻿"inst_cert_id","instructor_id","certificate_id","certificate_image_url"
+﻿"inst_cert_id","user_id","certificate_id","certificate_image_url"
 3,24,3,https://go-ski.s3.ap-northeast-2.amazonaws.com/certificate/24/cert-1.png
 4,24,6,https://go-ski.s3.ap-northeast-2.amazonaws.com/certificate/24/cert-1.png
 5,24,2,https://go-ski.s3.ap-northeast-2.amazonaws.com/certificate/24/cert-3.png
